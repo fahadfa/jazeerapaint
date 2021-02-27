@@ -1,1 +1,1 @@
-#http-JazeeraPaints.com
+#httpJazeeraPaints.com
